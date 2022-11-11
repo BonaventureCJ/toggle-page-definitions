@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toggle-page-definitions/static/css/main.c2777229.css",
+    "main.js": "/toggle-page-definitions/static/js/main.db019bc2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/toggle-page-definitions/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/toggle-page-definitions/index.html",
+    "main.c2777229.css.map": "/toggle-page-definitions/static/css/main.c2777229.css.map",
+    "main.db019bc2.js.map": "/toggle-page-definitions/static/js/main.db019bc2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/toggle-page-definitions/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2777229.css",
+    "static/js/main.db019bc2.js"
+  ]
+}
